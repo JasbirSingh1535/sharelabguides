@@ -28,7 +28,7 @@
 
     ![](media/rgimage.png "Resource groups")
    
-1. Confirm you have a resource group **Challenge9-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge9-<inject key="DeploymentID" enableCopy="false"/>** resource group throughout this challenge.
+1. Confirm you have a resource group **Challenge-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge-<inject key="DeploymentID" enableCopy="false"/>** resource group throughout this challenge.
 
     ![](media/Challenge09-rg.png "Resource groups")
 
