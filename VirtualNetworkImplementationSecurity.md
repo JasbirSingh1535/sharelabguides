@@ -1,4 +1,4 @@
-## Challenge 9: Contoso Virtual Network Implementation & Security
+## Challenge 1: Contoso Virtual Network Implementation & Security
 
 ### Estimated duration: 2 Hours
 
