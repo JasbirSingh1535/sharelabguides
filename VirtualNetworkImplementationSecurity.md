@@ -11,12 +11,12 @@
 1. On the **Sign in to Microsoft Azure** tab you will see a login screen, enter the following email/username and then click on **Next**. 
    * Email/Username: <inject key="AzureAdUserEmail"></inject>
    
-     ![](media/email1.png "Enter Email")
+     ![](media/azurelogin.png "Enter Email")
      
 1. Now enter the following password and click on **Sign in**.
    * Password: <inject key="AzureAdUserPassword"></inject>
    
-     ![](media/password2.png "Enter Password")
+     ![](media/azurepwlogin.png "Enter Password")
      
 1. If you see the pop-up **Stay Signed in?**, click No.
 
@@ -26,7 +26,7 @@
    
 1. Now you will see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
 
-    ![](media/select-rg.png "Resource groups")
+    ![](media/rgimage.png "Resource groups")
    
 1. Confirm you have a resource group **Challenge9-<inject key="DeploymentID" enableCopy="false"/>** present as shown in the below screenshot. You need to use the **Challenge9-<inject key="DeploymentID" enableCopy="false"/>** resource group throughout this challenge.
 
