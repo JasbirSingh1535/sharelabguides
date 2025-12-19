@@ -2,36 +2,6 @@
 
 ### Estimated duration: 2 Hours
 
-### **Contoso Environment:** 
-
-1. The Contoso environment consists of an Azure subscription with contributor permissions.
-
-1. To access the Azure portal, open a private/incognito window in your browser and navigate to **[Azure Portal](https://portal.azure.com)**.
-
-1. On the **Sign in to Microsoft Azure** tab you will see a login screen, enter the following email/username and then click on **Next**. 
-   * Email/Username: <inject key="AzureAdUserEmail"></inject>
-   
-     ![](media/azurelogin.png "Enter Email")
-     
-1. Now enter the following password and click on **Sign in**.
-   * Password: <inject key="AzureAdUserPassword"></inject>
-   
-     ![](media/azurepwlogin.png "Enter Password")
-     
-1. If you see the pop-up **Stay Signed in?**, click No.
-
-1. If you see the pop-up **You have free Azure Advisor recommendations!**, close the window to continue the lab.
-
-1. If a **Welcome to Microsoft Azure** popup window appears, click **Maybe Later** to skip the tour.
-   
-1. Now you will see Azure Portal Dashboard, click on **Resource groups** from the Navigate panel to see the resource groups.
-
-    ![](media/rgimage.png "Resource groups")
-   
-1. Confirm you have a resource group **Challenge-SUFFIX** present as shown in the below screenshot. You need to use the **Challenge-SUFFIX** resource group throughout this challenge.
-
-    ![](media/Challenge09-rg.png "Resource groups")
-
 ### **Level:** Expert 
 
 ### **Challenge Objective:**
